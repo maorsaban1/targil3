@@ -13,6 +13,7 @@ namespace targil3
             Console.WriteLine("chir in color = " + r1.char1.color );
             r1.char1.color = "red";
             Console.WriteLine("chir in color = " + r1.char1.color);
+            //
 
 
         }
